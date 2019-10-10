@@ -23,4 +23,4 @@ sinh viên, mảng SinhVien. Viết các phương thức thực hiện:
 
 Viết hàm main khởi tạo đối tượng DSSinhvien . Lần lượt chạy qua các phương thức trên (input cho mỗi phương thức tự nghĩ). sử dụng chức năng debug của pycharm để kiểm tra hoạt động.
 
-Không giới hạn thư viện sử dụng.
+Không giới hạn thư viện sử dụng.VD sắp xếp, so sánh nếu tìm đc thư viện và dùng vào càng tốt.
