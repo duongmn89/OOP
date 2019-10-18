@@ -46,13 +46,13 @@ class danhsach:
             print("Khong ton tai gia tri can xoa trong mang")
 
 def main():
-    p1 = danhsach("input.txt")
+    p1 = danhsach("baitap02input.txt")
     p1.findMax()
     p1.sortArray()
     p1.insertArray("13.1")
     p1.deleteArray(3)
     print(p1.A)
-    p1.writeFile("output.txt")
+    p1.writeFile("baitap02output.txt")
 
 
 if __name__ == '__main__':
